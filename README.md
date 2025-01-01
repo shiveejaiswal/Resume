@@ -12,4 +12,4 @@ This is a personal resume website created using HTML and CSS. It showcases my pr
 
 ## How to View
 
-You can view my resume by visiting the hosted website (link below) or by cloning this repository and opening the `index.html` file in your browser.
+You can view my resume by visiting the hosted website ([link](https://shiveejaiswal.github.io/Resume/)) or by cloning this repository and opening the `index.html` file in your browser.
